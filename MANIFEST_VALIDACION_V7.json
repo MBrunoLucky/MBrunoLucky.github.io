@@ -1,0 +1,13 @@
+{
+  "version": "V7 final UX/UI hardening",
+  "html_pages": 78,
+  "adsense_pages": 78,
+  "main_focus": [
+    "no-overlap images",
+    "premium tools directory",
+    "search and filters",
+    "visual hierarchy",
+    "mobile-first defensive CSS"
+  ],
+  "recommended_upload": "replace all previous files in mbrunolucky.github.io with this package"
+}

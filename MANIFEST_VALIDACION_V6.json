@@ -1,0 +1,15 @@
+{
+  "version": "V6 UI FIX FINAL",
+  "html_pages": 78,
+  "tool_cards": 36,
+  "fixes": [
+    "herramientas.html premium visual rebuild",
+    "real search + category filters",
+    "result counter",
+    "no-overlap image containers",
+    "responsive CSS grid",
+    "object-fit contain for SVG/tool visuals",
+    "AdSense preserved"
+  ],
+  "adsense_pages_with_ca_pub": 78
+}
